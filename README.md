@@ -49,13 +49,13 @@ After installation, make sure Deno is added to your PATH.
 To run any exercise in this repository, use the following command pattern:
 
 ```bash
-deno run path/to/exercise.ts
+deno path/to/exercise.ts
 ```
 
 For example:
 
 ```bash
-deno run exercises/27.RemoveElement.ts
+deno exercises/27.RemoveElement.ts
 ```
 
 ## Structure
